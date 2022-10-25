@@ -1,0 +1,68 @@
+{
+	"lang" : "En",
+	"title": "NEONSCAN",
+	"description": "NeonScan allows you to explore and search the Neon blockchain for transactions, addresses, tokens, prices and other activities taking place on Neon (NEON)",
+
+
+
+	"action.copy.tip": "Copy [{source}] to clipboard.",
+
+
+
+	"captcha.title": "Slide to complete the puzzle",
+
+	"login.title": "Log In With iBitGo",
+	"login.tips": "IMPORTANT! Please check that you are visiting",
+	"login.label": "Your Email address",
+	"login.pass.label": "Your password",
+	"login.pass.placeholder": "8 ~ 32 characters",
+	"login.forgot": "Forgot password?",
+	"login.register": "Create an Account?",
+	"login.register.label": "New on iBitGo?",
+	"login.submit": "LOGIN",
+	"login.success": "You have successfully logged in.",
+	"login.locked": "Your account has been suspended until {time}.\nReason: Login failed (5 times).",
+	"login.goto": "Go to Profile Account",
+
+	"register.title": "Create Your Account",
+	"register.label": "Your Email address",
+	"register.pass.label": "Create Password",
+	"register.pass.placeholder": "8 ~ 32 characters",
+	"register.pass.strength": "Strength",
+	"register.pass.scorewords": "weak\nmedium\nstrong",
+	"register.referral": "I have a referral code",
+	"register.referral.placeholder": "Referral code (26 characters)",
+	"register.agree": "By continuing you agree to iBitGo's Terms of Service, Affiliate Program Terms of Service, and Privacy Notice.",
+	"register.submit": "SUBMIT",
+	"register.success": "Your account was created successfully.",
+	"register.backto": "Back to Login",
+
+	"reset.title": "Reset Your Password",
+	"reset.desc": "What's the email associated with your account?",
+	"reset.desc.sent": "Done! An email with instructions has been sent to xhe18621@gmail.com, if this account exists. Please check your inbox.",
+	
+	"reset.tips": "Enter your email address or phone number to reset your password.",
+	"reset.request": "Request new password",
+	"reset.submit": "Reset password",
+	"reset.success": "We have successfully sent password reset url.\nPlease check your email inbox.",
+	"reset.updated": "Your password successfully changed.\n",
+
+	
+	"error.00000": "Please Input {name}",
+	"error.00100": "{name} Email Incorrect",
+	"error.00001": "Password Incorrect",
+	"error.00002": "User Already Exist",
+	"error.00003": "Password Incorrect",
+	"error.00004": "Password Incorrect",
+	"error.00005": "Password Incorrect",
+	"error.00006": "Password Incorrect",
+	"error.00007": "Password Incorrect",
+
+	
+	"error.10000": "User not Exist",
+	"error.10001": "Password Incorrect",
+	"error.10002": "Not Match Password",
+	"error.10003": "User Already Exist",
+	"error.10004": "Your Email Incorrect",
+	"error.10005": "Password Incorrect"
+}

@@ -1,0 +1,23 @@
+.pager {
+    display: flex;
+    gap: 5px;
+
+    code {
+        min-width: 9em;
+        padding-left: 0.5em;
+        padding-right: 0.5em;
+        border-radius: 0.3em;
+    }
+
+    button {
+        min-width: 2.5em;
+        padding: 0.5em;
+        border-color: #7d89a1;
+    }
+
+    :disabled {
+        background-color: var(--border-secondary);
+        opacity: 0.3;
+        cursor: not-allowed;
+    }
+}
